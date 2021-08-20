@@ -38,3 +38,7 @@ Alternatively you can call the output with element type and id:
      { 'elementId': productId, 'elementType': 'object' }
  )) }}
 ```
+
+## How to get the plugin
+
+Please write an email to [info@blackbit.de](mailto:info@blackbit.de).
