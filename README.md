@@ -2,6 +2,8 @@
 
 ## Configuration
 
+![Rich snippet mapping](doc/rich-snippet-mapping.png)
+
 This Pimcore plugin adds a microdata tab in the edit view for documents, assets and data objects. After selecting one of the types specified by [Schema.org](https://schema.org/) you can enter the data for all the fields which the Schema.org standard defines for the selected type.
 
 Beside direct input (click on `Value` cell) you can use drag and drop to assign objects and assets. Additionally you can enter a callback function by clicking in the `Preview` cell. This callback function supports the following variables as input:
